@@ -1,4 +1,4 @@
-#tt{
+#tt {
   background-image: url(../public/images/tt.jpg);
   /* background-repeat: none; */
   background-position: center;
@@ -7,76 +7,60 @@
   opacity: 1.9;
 }
 
-#vv{
-    background-image: url(../public/images/vv.jpg);
+#vv {
+  background-image: url(../public/images/vv.jpg);
   /* background-repeat: none; */
   background-position: center;
   background-size: cover;
   /* background-color: rgba(0, 0, 0, 0.096); */
-  
-
 }
 
-#ss{
-    background-image: url(../public/images/ss.jpg);
+#ss {
+  background-image: url(../public/images/ss.jpg);
   /* background-repeat: none; */
   background-position: center;
   background-size: cover;
   /* background-color: rgba(0, 0, 0, 0.096); */
-  
-
 }
-#yy{
-    background-image: url(../public/images/yy.jpg);
+#yy {
+  background-image: url(../public/images/yy.jpg);
   /* background-repeat: none; */
   background-position: center;
   background-size: cover;
   /* background-color: rgba(0, 0, 0, 0.096); */
-  
-
 }
-#ll{
-    background-image: url(../public/images/ll.jpg);
+#ll {
+  background-image: url(../public/images/ll.jpg);
   /* background-repeat: none; */
   background-position: center;
   background-size: cover;
   /* background-color: rgba(0, 0, 0, 0.096); */
-  
-
 }
-#oo{
-    background-image: url(../public/images/oo.jpg);
+#oo {
+  background-image: url(../public/images/oo.jpg);
   /* background-repeat: none; */
   background-position: center;
   background-size: cover;
   /* background-color: rgba(0, 0, 0, 0.096); */
-  
-
 }
-#ff{
-    background-image: url(../public/images/ff.jpg);
+#ff {
+  background-image: url(../public/images/ff.jpg);
   /* background-repeat: none; */
   background-position: center;
   background-size: cover;
   /* background-color: rgba(0, 0, 0, 0.096); */
-  
-
 }
-#mm{
-    background-image: url(../public/images/mm.jpg);
+#mm {
+  background-image: url(../public/images/mm.jpg);
   /* background-repeat: none; */
   background-position: center;
   background-size: cover;
   /* background-color: rgba(0, 0, 0, 0.096); */
-  
-
 }
-#mm{
-    background-image: url(../public/images/mm.jpg);
+#mm {
+  background-image: url(../public/images/mm.jpg);
   /* background-repeat: none; */
   background-position: center;
   background-size: cover;
   /* background-color: rgba(0, 0, 0, 0.096); */
-  
-
 }
